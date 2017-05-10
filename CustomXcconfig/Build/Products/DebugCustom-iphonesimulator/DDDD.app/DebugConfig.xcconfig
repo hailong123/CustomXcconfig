@@ -1,0 +1,14 @@
+//
+//  DebugConfig.xcconfig
+//  DDDD
+//
+//  Created by 123456 on 2017/5/10.
+//  Copyright © 2017年 KuXing. All rights reserved.
+//
+
+#include "CommonConfig.xcconfig"
+
+#include "Pods/Target Support Files/Pods-DDDD/Pods-DDDD.debug.xcconfig"
+
+APP_DISPLAY_NAME = 测试服
+CONFIG_FLAG = DEBUG
